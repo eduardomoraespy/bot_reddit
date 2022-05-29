@@ -1,0 +1,13 @@
+Documentação api reddit - https://www.reddit.com/dev/api/
+
+credenciais - https://www.reddit.com/prefs/apps
+
+name = teste_bot_eduardo
+
+redirect uri = http://localhost
+
+client_id = WluufyHLR3ERQrin5EbRhQ
+
+client_secret = XHZkGjaq4Uir3Gt_aN6VqhtPOmXr5Q
+
+user_agent = bot_python (pode ser nomeado com qualquer nome)
